@@ -2,11 +2,9 @@
 
 This repository contains the open-source uptime monitor and status page for [Bharat Rawat](https://bharatrawat.com), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/xettri/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/xettri/uptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/xettri/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/xettri/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/xettri/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/xettri/uptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/xettri/uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/xettri/uptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/xettri/uptime/workflows/Summary%20CI/badge.svg)](https://github.com/xettri/uptime/actions?query=workflow%3A%22Summary+CI%22)
+![Uptime CI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/xettri/upptime/refs/heads/master/api/bharat-rawat-website/uptime.json)
+![Response Time CI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/xettri/upptime/refs/heads/master/api/bharat-rawat-website/response-time.json)
+![Response Time Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/xettri/upptime/refs/heads/master/api/bharat-rawat-website/response-time-week.json)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/xettri/uptime/issues) as incident reports, [Actions](https://github.com/xettri/uptime/actions) as uptime monitors, and [Pages](https://xettri.github.io/uptime) for the status page.
 
